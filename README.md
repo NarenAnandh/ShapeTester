@@ -1,4 +1,4 @@
 # ShapeTester
 A program to find the surface area and volume of box, pyramid and sphere.
 
-![Calculator](https://github.com/NarenAnandh/DigitalCalculator/blob/master/Calculator/Calculator.png)
+![ShapeTester](https://github.com/NarenAnandh/ShapeTester/blob/master/Screen%20Shot%202018-02-13%20at%208.21.54%20PM.png)
